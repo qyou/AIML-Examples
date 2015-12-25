@@ -14,6 +14,7 @@ Screenshots
 
 References
 ----------
-1 [AIML official site](http://www.alicebot.org/aiml.html)
-2 [PyAIML](https://pypi.python.org/pypi/aiml/0.8.6)
+1. [AIML official site](http://www.alicebot.org/aiml.html)
+
+2. [PyAIML](https://pypi.python.org/pypi/aiml/0.8.6)
 
