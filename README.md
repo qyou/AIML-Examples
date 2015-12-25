@@ -9,7 +9,7 @@ Prequisites
 
 Screenshots
 ------------------
-![AliceBot](./alicebot_screenshots1.png)
+![AliceBot](./alicebot_screenshot1.png)
 
 
 References
